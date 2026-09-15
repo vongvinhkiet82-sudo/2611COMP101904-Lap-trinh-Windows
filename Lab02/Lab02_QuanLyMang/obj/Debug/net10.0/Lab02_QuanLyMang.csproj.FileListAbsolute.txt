@@ -1,0 +1,16 @@
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\Lab02_QuanLyMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\Lab02_QuanLyMang.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\Lab02_QuanLyMang.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\Lab02_QuanLyMang.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\Lab02_QuanLyMang.sourcelink.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\bin\Debug\net10.0\Lab02_QuanLyMang.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\bin\Debug\net10.0\Lab02_QuanLyMang.deps.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\bin\Debug\net10.0\Lab02_QuanLyMang.runtimeconfig.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\bin\Debug\net10.0\Lab02_QuanLyMang.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\bin\Debug\net10.0\Lab02_QuanLyMang.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\Lab02_QuanLyMang.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\refint\Lab02_QuanLyMang.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\Lab02_QuanLyMang.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\Lab02_QuanLyMang.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\ref\Lab02_QuanLyMang.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab02\Lab02_QuanLyMang\Lab02_QuanLyMang\obj\Debug\net10.0\Lab02_Qu.45A5F3AA.Up2Date
