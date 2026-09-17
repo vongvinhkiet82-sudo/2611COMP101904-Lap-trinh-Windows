@@ -1,0 +1,21 @@
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Bai tap lop\16092026\slide03\obj\Debug\net10.0\QuanLyNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Bai tap lop\16092026\slide03\obj\Debug\net10.0\QuanLyNhanVien.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Bai tap lop\16092026\slide03\obj\Debug\net10.0\QuanLyNhanVien.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Bai tap lop\16092026\slide03\obj\Debug\net10.0\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Bai tap lop\16092026\slide03\obj\Debug\net10.0\QuanLyNhanVien.sourcelink.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\QuanLyNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\QuanLyNhanVien.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\QuanLyNhanVien.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\QuanLyNhanVien.sourcelink.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\bin\Debug\net10.0\QuanLyNhanVien.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\bin\Debug\net10.0\QuanLyNhanVien.deps.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\bin\Debug\net10.0\QuanLyNhanVien.runtimeconfig.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\bin\Debug\net10.0\QuanLyNhanVien.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\bin\Debug\net10.0\QuanLyNhanVien.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\QuanLyNhanVien.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\refint\QuanLyNhanVien.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\QuanLyNhanVien.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\QuanLyNhanVien.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\ref\QuanLyNhanVien.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\BTLOP\16092026\obj\Debug\net10.0\QuanLyNh.973645E6.Up2Date
