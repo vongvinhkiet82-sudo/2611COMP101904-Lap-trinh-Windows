@@ -1,0 +1,16 @@
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.deps.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.runtimeconfig.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.sourcelink.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\refint\Lab03_QuanLySinhVienOOP.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\ref\Lab03_QuanLySinhVienOOP.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab03\obj\Debug\net8.0\Lab03_Qu.DA0C2964.Up2Date
