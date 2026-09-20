@@ -1,4 +1,4 @@
-# Lab 03 - Quản lý sinh viên bằng Console (COMP1019)
+# Lab 03 - Quản lý sinh viên bằng Console
 
 Chương trình Console C# quản lý sinh viên theo hướng đối tượng, lưu dữ liệu trong `List<SinhVien>`.
 
@@ -14,8 +14,8 @@ Lab03_QuanLySinhVienOOP
 
 ## Công nghệ sử dụng
 
-- - C# Windows Forms
-- .NET 
+- C# Windows Forms
+- .NET 8 
 
 ## Đối chiếu yêu cầu
 
