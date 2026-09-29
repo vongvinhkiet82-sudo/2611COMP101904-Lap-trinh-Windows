@@ -1,0 +1,20 @@
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\bin\Debug\Lab05_Đăng ký khóa học.exe.config
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\bin\Debug\Lab05_Đăng ký khóa học.exe
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\bin\Debug\Lab05_Đăng ký khóa học.pdb
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\obj\Debug\Lab05_Đăng ký khóa học.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\obj\Debug\Lab05_Đăng_ký_khóa_học.Dangkykhoahoc.resources
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\obj\Debug\Lab05_Đăng_ký_khóa_học.Properties.Resources.resources
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\obj\Debug\Lab05_Đăng ký khóa học.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\obj\Debug\Lab05_Đăng ký khóa học.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\obj\Debug\Lab05_Đăng ký khóa học.exe
+C:\Users\dell\OneDrive\Đính kèm\Lab05_Đăng ký khóa học\Lab05_Đăng ký khóa học\obj\Debug\Lab05_Đăng ký khóa học.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\bin\Debug\Lab05_Đăng ký khóa học.exe.config
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\bin\Debug\Lab05_Đăng ký khóa học.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\bin\Debug\Lab05_Đăng ký khóa học.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\obj\Debug\Lab05_Đăng ký khóa học.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\obj\Debug\Lab05_Đăng_ký_khóa_học.Dangkykhoahoc.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\obj\Debug\Lab05_Đăng_ký_khóa_học.Properties.Resources.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\obj\Debug\Lab05_Đăng ký khóa học.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\obj\Debug\Lab05_Đăng ký khóa học.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\obj\Debug\Lab05_Đăng ký khóa học.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab05\obj\Debug\Lab05_Đăng ký khóa học.pdb
