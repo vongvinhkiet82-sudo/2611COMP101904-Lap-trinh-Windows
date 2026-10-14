@@ -1,0 +1,14 @@
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.FrmAbout.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.FrmLogin.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.FrmMain.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.Properties.Resources.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.FrmCustomer.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.FrmProduct.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\bin\Debug\ShopManagerMini.exe.config
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\bin\Debug\ShopManagerMini.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\bin\Debug\ShopManagerMini.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lap07\obj\Debug\ShopManagerMini.pdb
