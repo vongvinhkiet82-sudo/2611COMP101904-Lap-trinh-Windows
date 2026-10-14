@@ -1,0 +1,16 @@
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\Lab04_PRODUCT_MANAGER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\Lab04_PRODUCT_MANAGER.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\Lab04_PRODUCT_MANAGER.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\Lab04_PRODUCT_MANAGER.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\Lab04_PRODUCT_MANAGER.sourcelink.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\bin\Debug\net10.0\Lab04_PRODUCT_MANAGER.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\bin\Debug\net10.0\Lab04_PRODUCT_MANAGER.deps.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\bin\Debug\net10.0\Lab04_PRODUCT_MANAGER.runtimeconfig.json
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\bin\Debug\net10.0\Lab04_PRODUCT_MANAGER.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\bin\Debug\net10.0\Lab04_PRODUCT_MANAGER.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\Lab04_PRODUCT_MANAGER.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\refint\Lab04_PRODUCT_MANAGER.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\Lab04_PRODUCT_MANAGER.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\Lab04_PRODUCT_MANAGER.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\ref\Lab04_PRODUCT_MANAGER.dll
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab04\obj\Debug\net10.0\Lab04_PR.695A6DE8.Up2Date

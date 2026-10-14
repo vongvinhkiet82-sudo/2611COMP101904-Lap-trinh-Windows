@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab04_PRODUCT_MANAGER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e55a25819ba198bae76afa15dc9028174408dfd0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cadc8fdce8b0dc4a4998bcd7e497d273ace48dc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab04_PRODUCT_MANAGER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab04_PRODUCT_MANAGER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

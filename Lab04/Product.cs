@@ -1,7 +1,6 @@
-﻿using Lab04_PRODUCT_MANAGER;
-using System;
+﻿using System;
 
-namespace Lab04
+namespace Lab04_PRODUCT_MANAGER
 {
     public class Product : IEntity
     {
@@ -49,7 +48,7 @@ namespace Lab04
         {
             MaSP = maSP;
             TenSP = tenSP;
-            Price = price;       
+            Price = price;
             Quantity = quantity;
         }
 
