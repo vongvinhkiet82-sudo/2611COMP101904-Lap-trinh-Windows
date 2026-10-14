@@ -56,24 +56,39 @@ Chương trình Console quản lý sản phẩm, dữ liệu lưu trong bộ nh�
 ![Giao dien chinh](images/giao_dien_chinh.png)
 
 ### 1. Thêm sản phẩm
+
 Thêm sản phẩm thành công
+
 ![Them san pham](images/them_san_pham.png)
+
 Thêm sản phẩm trùng mã 
+
 ![Them san pham trung ma](images/them_san_pham_trung_ma.png)
+
 Thêm sản phẩm mã rỗng 
+
 ![Loi trong ma](images/loi_trong_ma.png)
+
 Thêm sản phẩm giá âm 
+
 ![Loi gia am](images/loi_gia_am.png)
+
 Lỗi giá không hợp lệ
+
 ![Loi gia khong hop le](images/loi_gia_khong_hop_le.png)
+
 Lỗi số lượng âm
+
 ![Loi so luong am](images/loi_so_luong_am.png)
 
 ### 2. Xuất danh sách
 
 Danh sách rỗng
+
 ![Danh sach rong](images/danh_sach_rong.png)
+
 Danh sách đầy đủ
+
 ![Danh sach](images/danh_sach.png)
 
 ### 3. Tìm theo mã
@@ -85,23 +100,35 @@ Danh sách đầy đủ
 ![Tim theo ten](images/tim_theo_ten.png)
 
 ### 5. Lọc theo khoảng giá
+
 Lọc theo khoảng giá thành công
+
 ![Loc theo khoang gia](images/loc_theo_khoang_gia.png)
 
 Lỗi khoảng giá không hợp lệ
+
 ![Loi khoang gia](images/loi_khoang_gia.png)
 
 ### 6. Xóa sản phẩm
+
 Xóa sản phẩm thành công
+
 ![Xoa san pham](images/xoa_san_pham.png)
+
 Xóa sản phẩm không tồn tại
+
 ![Xoa san pham khong ton tai](images/xoa_san_pham_khong_ton_tai.png)
 
 ### 7. Tính tổng giá trị kho
+
 Trước khi xóa sản phẩm
+
 ![Tong gia tri kho](images/tong_gia_tri_kho.png)
+
 Sau khi xóa sản phẩm
+
 ![Tong gia tri kho sau khi xoa](images/tong_gia_tri_kho_sau_khi_xoa.png)
 
 ### 8. Thoát chương trình
+
 ![Thoat chuong trinh](images/thoat_chuong_trinh.png)
