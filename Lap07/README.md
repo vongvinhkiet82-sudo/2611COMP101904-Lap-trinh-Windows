@@ -56,68 +56,86 @@ ShopManagerMini
 ### 5.1. Đăng nhập
 
 **Màn hình đăng nhập**
+
 ![Màn hình đăng nhập](images/01_login.png)
 
 **Cảnh báo khi bỏ trống username/password**
+
 ![Cảnh báo bỏ trống](images/02_login_empty.png)
 
 **Báo lỗi khi sai tài khoản hoặc mật khẩu**
+
 ![Đăng nhập sai](images/03_login_wrong.png)
 
 **Che mật khẩu**
+
 ![Che mật khẩu](images/04_login_hide.png)
 
 ### 5.2. Form chính (MDI)
 
 **FrmMain sau khi đăng nhập (thanh trạng thái có tên người dùng, vai trò, thời gian)**
+
 ![FrmMain](images/05_main.png)
 
 **Các menu (Hệ thống, Danh mục, Trợ giúp)**
+
 ![Menu](images/menu1.png)
 ![Menu](images/menu2.png)
 ![Menu](images/menu3.png)
 
 **Nhiều Form con mở bên trong FrmMain**
+
 ![Form con MDI](images/06_mdi_children.png)
 
 **Bấm menu nhiều lần vẫn chỉ có một Form (không mở trùng)**
+
 ![Không mở trùng](images/07_no_duplicate.png)
 
 **Hỏi xác nhận khi thoát chương trình/đăng xuất**
+
 ![Xác nhận thoát](images/08_exit_confirm.png)
 ![Xác nhận đăng xuất](images/08_logout_confirm.png)
 
 ### 5.3. Quản lý sản phẩm
 
 **Danh sách sản phẩm**
+
 ![Danh sách sản phẩm](images/09_product_list.png)
 
 **Thêm sản phẩm thành công**
+
 ![Thêm sản phẩm](images/10_product_add.png)
 
 **Báo lỗi trùng mã sản phẩm**
+
 ![Trùng mã](images/11_product_duplicate.png)
 
 **Báo lỗi đơn giá hoặc số lượng âm**
+
 ![Giá trị âm](images/12_product_negative.png)
 
 **Sửa sản phẩm**
+
 ![Sửa sản phẩm](images/13_product_edit.png)
 
 **Xác nhận trước khi xóa**
+
 ![Xác nhận xóa](images/14_product_delete.png)
 
 **Tìm kiếm sản phẩm**
+
 ![Tìm kiếm](images/15_product_search.png)
 
 ### 5.4. Quản lý khách hàng
 
 **Danh sách và thêm khách hàng**
+
 ![Quản lý khách hàng](images/16_customer.png)
 ![Quản lý khách hàng](images/16_customer_add.png)
 
 
 **Báo lỗi nhập sai (ví dụ số điện thoại không hợp lệ)**
+
 ![Lỗi khách hàng](images/17_customer_error.png)
 
 ### 5.5. Giới thiệu
