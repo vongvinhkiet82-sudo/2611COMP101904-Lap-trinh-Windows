@@ -1,0 +1,10 @@
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\obj\Debug\InTheSinhVien.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\obj\Debug\InTheSinhVien.Properties.Resources.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\obj\Debug\InTheSinhVien.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\obj\Debug\InTheSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\obj\Debug\Lab09_InTheSinhVien.FrmStudentCard.resources
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\bin\Debug\InTheSinhVien.exe.config
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\bin\Debug\InTheSinhVien.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\bin\Debug\InTheSinhVien.pdb
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\obj\Debug\InTheSinhVien.exe
+C:\Users\dell\OneDrive\Đính kèm\2611COMP101904-Lap-trinh-WinDows\Lab09\obj\Debug\InTheSinhVien.pdb
