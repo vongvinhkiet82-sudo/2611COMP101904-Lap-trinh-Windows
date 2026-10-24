@@ -91,50 +91,50 @@ SINHVIEN(MaSV PK, HoTen, MaLop FK -> LOP.MaLop)
 ## 11. Ảnh chụp màn hình kiểm tra 
 ### Khởi chạy ứng dụng, dữ liệu từ SQL Server hiển thị đầy đủ lên `DataGridView`:
 
-![Kết nối và nạp dữ liệu](Images/Du_lieu_ban_dau.png)
+![Kết nối và nạp dữ liệu](images/Du_lieu_ban_dau.png)
 
 ### Click dòng trên lưới, thông tin đổ lên TextBox và khóa trường mã lớp:
 
-![Chọn dòng hiển thị](Images/Chon_dong.png)
+![Chọn dòng hiển thị](images/Chon_dong.png)
 
 ### Thêm lớp không hợp lệ (F3): để trống mã lớp thì báo cảnh báo, không thêm:
 
-![Thêm thiếu mã lớp](Images/Them_thieu_ma.png)
+![Thêm thiếu mã lớp](images/Them_thieu_ma.png)
 
 ### Thêm lớp hợp lệ (F3): nhập `SPTIN02` và tên lớp, hệ thống báo thêm thành công:
 
-![Thêm lớp thành công](Images/Them_thanh_cong.png)
+![Thêm lớp thành công](images/Them_thanh_cong.png)
 
 ### Sau khi thêm: lưới tự tải lại, lớp mới xuất hiện và các ô nhập được làm trống:
 
-![Lưới sau khi thêm](Images/Sau_khi_them.png)
+![Lưới sau khi thêm](images/Sau_khi_them.png)
 
 ### Thêm trùng mã lớp (F3): nhập `CNTT01` đã tồn tại thì bị chặn:
 
-![Thêm trùng mã lớp](Images/Them_trung_ma.png)
+![Thêm trùng mã lớp](images/Them_trung_ma.png)
 
 ### Sửa khi chưa chọn lớp (F4): báo cảnh báo, không cho sửa:
 
-![Sửa khi chưa chọn lớp](Images/Sua_chua_chon_lop.png)
+![Sửa khi chưa chọn lớp](images/Sua_chua_chon_lop.png)
 
 ### Sửa lớp hợp lệ (F4): chọn `SPTIN01`, đổi tên lớp rồi bấm Sửa, mã lớp bị khóa nên không đổi được:
 
-![Cập nhật lớp thành công](Images/Sua_thanh_cong.png)
+![Cập nhật lớp thành công](images/Sua_thanh_cong.png)
 
 ### Xóa khi chưa chọn lớp (F5): báo cảnh báo:
 
-![Xóa khi chưa chọn lớp](Images/Xoa_chua_chon_lop.png)
+![Xóa khi chưa chọn lớp](images/Xoa_chua_chon_lop.png)
 
 ### Xóa lớp đang có sinh viên (F5): lớp `CNTT01` có 2 sinh viên nên không cho xóa:
 
-![Không xóa được lớp có sinh viên](Images/Xoa_lop_co_sinh_vien.png)
+![Không xóa được lớp có sinh viên](images/Xoa_lop_co_sinh_vien.png)
 
 ### Xóa lớp chưa có sinh viên (F5): hiện hộp thoại xác nhận trước khi xóa:
 
-![Xác nhận xóa](Images/Xac_nhan_xoa.png)
+![Xác nhận xóa](images/Xac_nhan_xoa.png)
 
 ### Tìm kiếm (F6): gõ từ khóa `ly`, lưới chỉ hiện lớp có mã hoặc tên chứa từ khóa:
 
-![Tìm kiếm lớp](Images/Tim_kiem.png)
+![Tìm kiếm lớp](images/Tim_kiem.png)
 
 
