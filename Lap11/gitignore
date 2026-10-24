@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# Test và công cụ
+TestResults/
+*.log
+*.tmp
+*.cache
+_ReSharper*/
+*.DotSettings.user
+
+# File hệ thống
+Thumbs.db
+.DS_Store
