@@ -1,0 +1,19 @@
+﻿BÁO CÁO SINH VIÊN - Tất cả lớp - Kết quả: Tất cả
+STT,Mã SV,Họ tên,Lớp,Điểm,Kết quả
+1,SV012,Đỗ Bảo Ngọc,CNTT K48A,"9,3",Đạt
+2,SV004,Phạm Thanh Dung,CNTT K47A,"9,1",Đạt
+3,SV001,Nguyễn Văn An,CNTT K47A,"8,2",Đạt
+4,SV009,Bùi Thảo Linh,CNTT K47B,"8,0",Đạt
+5,SV014,Mai Anh Thư,CNTT K48A,"7,8",Đạt
+6,SV006,Hoàng Quốc Huy,CNTT K47B,"7,4",Đạt
+7,SV010,Lương Thanh Giang,CNTT K47B,"7,4",Đạt
+8,SV002,Trần Thị Bình,CNTT K47A,"6,5",Đạt
+9,SV011,Ngô Tuấn Minh,CNTT K48A,"6,0",Đạt
+10,SV008,Đặng Minh Khôi,CNTT K47B,"5,5",Đạt
+11,SV005,Phan Văn Em,CNTT K47A,"5,0",Đạt
+12,SV003,Lê Minh Cường,CNTT K47A,"4,8",Không đạt
+13,SV013,Huỳnh Gia Phúc,CNTT K48A,"4,2",Không đạt
+14,SV007,Võ Gia Khang,CNTT K47B,"3,9",Không đạt
+15,SV015,Trịnh Hoài Nam,CNTT K48A,"2,5",Không đạt
+
+Tổng số SV: 15; Đạt: 11; Không đạt: 4; Điểm TB: 6,37
