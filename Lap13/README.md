@@ -30,8 +30,13 @@ StudentReportDemo
 ├── screenshots
 │   ├── mo_form.png
 │   ├── loc_du_lieu.png
-│   ├── khong_co_du_lieu.png
-│   ├── thong_ke_theo_lop.png
+│   ├── thong_ke.png
+│   ├── sap_xep1.png
+│   ├── sap_xep2.png
+│   ├── sap_xep3.png
+|   ├── sap_xep4.png
+│   ├── tim_kiem1.png
+|   ├── tim_kiem2.png
 │   └── xuat_file.png
 │
 ├── output
